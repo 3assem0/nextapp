@@ -40,3 +40,17 @@ a {
     color-scheme: dark;
   }
 }
+
+.navbar{
+  padding: 20px;
+  box-shadow: 2px 2px 2px rgb(129,127,127);
+}
+
+.navbar ul{
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
+.container{
+  padding: 30px;
+}
